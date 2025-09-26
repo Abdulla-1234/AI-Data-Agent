@@ -31,7 +31,8 @@ This project uses a React/TypeScript frontend and a Python (FastAPI) backend wit
 
 1. **Clone and Install**
 ```bash
-git clone <repository-url>
+
+git clone https://github.com/Abdulla-1234/AI-Data-Agent.git
 cd ai-data-agent
 npm install
 ```
