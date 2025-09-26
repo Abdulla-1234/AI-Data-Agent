@@ -116,3 +116,14 @@ npm run dev
 ```
 - The frontend will open at `http://localhost:5173`. Open this URL in your web browser.
 
+---
+## Contact
+
+**Developer:** D Mohammad Abdulla
+
+- 📧 **Email:** mohammadabdulla20march@gmail.com
+- 💼 **LinkedIn:** [Profile](https://www.linkedin.com/in/doodakula-mohammad-abdulla-8a3307258/)
+- 🐙 **GitHub:** [Profile](https://github.com/Abdulla-1234)
+- **Portfolio:** [Profile](https://musical-gaufre-7089c0.netlify.app/)
+
+---
