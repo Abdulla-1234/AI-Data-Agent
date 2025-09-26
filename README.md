@@ -6,11 +6,11 @@ This project uses a React/TypeScript frontend and a Python (FastAPI) backend wit
 
 ## Features
 
-**Natural Language to SQL**: Converts plain English questions into precise SQL queries.
-**Real AI Analysis**: Uses Google's Gemini AI via LangChain to analyze a messy, realistic SQLite database.
-**Dynamic Visualizations**: The AI intelligently selects the best chart type (bar, line, pie, table) and formats the data for visualization.
-**Interactive Chat Interface**: A modern, responsive chat-based UI built with React and Tailwind CSS.
-**Handles Bad Schemas**: The AI is capable of navigating cryptic table/column names and dirty data (mixed formats, nulls, etc.).
+- **Natural Language to SQL**: Converts plain English questions into precise SQL queries.
+- **Real AI Analysis**: Uses Google's Gemini AI via LangChain to analyze a messy, realistic SQLite database.
+- **Dynamic Visualizations**: The AI intelligently selects the best chart type (bar, line, pie, table) and formats the data for visualization.
+- **Interactive Chat Interface**: A modern, responsive chat-based UI built with React and Tailwind CSS.
+- **Handles Bad Schemas**: The AI is capable of navigating cryptic table/column names and dirty data (mixed formats, nulls, etc.).
 
 ## Architecture
 
