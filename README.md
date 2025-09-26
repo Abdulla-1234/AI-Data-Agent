@@ -4,6 +4,15 @@ A sophisticated AI-powered data analysis application that allows users to ask na
 
 This project uses a React/TypeScript frontend and a Python (FastAPI) backend with LangChain and Google's Gemini AI to perform real-time, AI-driven data analysis.
 
+---
+
+## Screenshots
+
+**Dashboard View**  
+<img width="1392" height="682" alt="image" src="https://github.com/user-attachments/assets/35e3caa0-4ca6-48ea-82af-78fec4902d44" />
+
+---
+
 ## Features
 
 - **Natural Language to SQL**: Converts plain English questions into precise SQL queries.
