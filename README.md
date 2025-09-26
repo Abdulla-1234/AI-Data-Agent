@@ -12,7 +12,7 @@ This project uses a React/TypeScript frontend and a Python (FastAPI) backend wit
 **Interactive Chat Interface**: A modern, responsive chat-based UI built with React and Tailwind CSS.
 **Handles Bad Schemas**: The AI is capable of navigating cryptic table/column names and dirty data (mixed formats, nulls, etc.).
 
-## Architecture
+### Architecture
 
 ### Frontend (React + TypeScript)
 - **Frontend:** React, TypeScript, Vite, Tailwind CSS, Recharts for charts.
