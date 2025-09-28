@@ -9,7 +9,8 @@ This project uses a React/TypeScript frontend and a Python (FastAPI) backend wit
 ## Screenshots
 
 **Dashboard View**  
-<img width="1392" height="682" alt="image" src="https://github.com/user-attachments/assets/35e3caa0-4ca6-48ea-82af-78fec4902d44" />
+<img width="1170" height="844" alt="image" src="https://github.com/user-attachments/assets/9f042754-f72a-4308-a7a5-1fd82509c23a" />
+" />
 
 ---
 
